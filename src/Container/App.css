@@ -1,0 +1,14 @@
+.App{
+  margin-left: 20px;
+}
+.user-list li{
+  list-style-type: none;
+  margin:10px;
+  border: solid 1px gainsboro;
+  width: 30%;
+  padding: 15px;
+}
+
+.user-info{
+  cursor: pointer;
+}
